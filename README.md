@@ -1,0 +1,1 @@
+# azuredevops_foundation_pipeline_core
